@@ -1,0 +1,1 @@
+The project "Gogaga Holidays" has been designated as an assignment to demonstrate my proficiency in HTML, CSS, and Bootstrap.
